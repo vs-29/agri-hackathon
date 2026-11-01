@@ -1,15 +1,6 @@
 # Agri-Seva
 
-A farm-to-buyer marketplace built at [hackathon name, year] by a team of [N]. Farmers list their produce, and buyers find produce near them, filtered by distance and price, without a middleman.
-
-<!-- Add screenshots: save them in a docs/ folder and uncomment.
-![Buyer home page with map](docs/buyer-home.png)
-![Farmer product listing](docs/farmer-products.png)
--->
-
-## My role
-
-[One or two sentences on what you built, for example: "I built the farmer app's product listing and image upload flow, and the products API (create, update, delete and filtered search)."]
+A farm-to-buyer marketplace . Farmers list their produce, and buyers find produce near them, filtered by distance and price, without a middleman.
 
 
 ## Features
